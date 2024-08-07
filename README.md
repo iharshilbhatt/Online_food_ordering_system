@@ -69,7 +69,7 @@ OOS (Online Ordering System) is a web-based application designed to streamline a
 
 ### Admin Panel
 
-- **Login:** Use the admin credentials (mobile: 1234567890, password: adminpassword) to log in.
+- **Login:** Use the admin credentials (mobile: 1234567890, password: 1234) to log in.
 - **Manage Orders:** View and update the status of orders.
 - **Manage Products:** Add, edit, or remove products from the catalog.
 - **Manage Users:** Create, edit, or remove user accounts.
